@@ -66,3 +66,10 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 # 2023-11-30
 - "Today's programming wisdom is to write code that is not only functional but also readable and maintainable. Invest time in naming variables and functions properly, keeping the code organized, and adding comments to explain complex logic. This will make your code easier to understand for yourself and others who may need to work on it in the future, saving time and reducing errors."
+
+# 2023-12-01
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This involves constantly reading, researching, and practicing new skills.
+
+To be an effective programmer, you must also have a strong foundation in core concepts and programming languages. By understanding the fundamentals, such as data structures, algorithms, design patterns, testing, version control, etc.,you will be able to adapt and apply these concepts to new projects and problems more efficiently. 
+ - 了解最新的技术和趋势。
+- 在核心概念和编程语言上建立坚实的基础。- 有良好的沟通和团队协作能力。 学习新技能并不断成长。
