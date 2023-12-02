@@ -73,3 +73,6 @@ First, prioritize your tasks. When you're working on a project, there will alway
 To be an effective programmer, you must also have a strong foundation in core concepts and programming languages. By understanding the fundamentals, such as data structures, algorithms, design patterns, testing, version control, etc.,you will be able to adapt and apply these concepts to new projects and problems more efficiently. 
  - 了解最新的技术和趋势。
 - 在核心概念和编程语言上建立坚实的基础。- 有良好的沟通和团队协作能力。 学习新技能并不断成长。
+
+# 2023-12-02
+- "Keep it simple, stupid!"
