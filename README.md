@@ -287,3 +287,9 @@ In practice, this could mean choosing established patterns and libraries over re
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By using task management tools, such as Trello or Asana, you can keep track of your progress and make sure you don't get sidetracked.
 
 Remember to take breaks throughout the day to clear your mind and refocus. Additionally, don’t be afraid to ask for help or advice from your colleagues or online communities. There is always someone willing to share their knowledge and experience. Finally, always keep learning and improving your skills. The programming industry is constantly evolving, so it' s essential to stay ahead of the curve.
+
+# 2024-01-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time and resources to each step. Having a clear plan will make it easier to stay focused and avoid getting lost in the details. 
+ - 来自NLP
