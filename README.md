@@ -479,3 +479,6 @@ This quote emphasizes that early-stage optimization can lead to unnecessary comp
 
 # 2024-02-27
 - "Keep it simple, stupid!"
+
+# 2024-02-28
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. Embrace new programming languages, frameworks, and tools, but don't forget to focus on the fundamentals of computer science and software engineering. Always keep code clean, simple, modular, scalable, secure, performant, accessible, maintainable, testable and documented. Practice good software craftsmanship and design principles, such as SOLID principles and DRY (Don'ts Repeat Yourself). Collaborate with others, share knowledge, ask questions, give constructive feedback, respect diverse opinions, communicate effectively, manage time and priorities, learn from failures, reflect on your own code and decisions, always be curious and open-minded. Finally, remember that software development is a creative and humane profession, so have fun and care about the people and the world around you.
