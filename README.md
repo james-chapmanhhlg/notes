@@ -548,3 +548,13 @@ In practical terms:
 Remember to take breaks throughout the day to clear your mind and refocus. Avoid multitasking as much as possible, as it can be distracting and reduce your efficiency. Instead, focus your attention on one task at a time and give it your full attention. 
  使用技术来提高效率，例如使用版本控制系统（如Git）来管理代码，使用任务管理工具（如同理心）来帮助组织任务，以及使用自动化工具来减少重复性工作。
  最后，不断学习和提高你的技能。阅读相关书籍、博客和论坛，参加编程课程和研讨会，以便了解最新的编程技巧和最佳实践。通过不断地学习和实践，你将成为一名更出色的程序员。
+
+# 2024-03-13
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines not only foster code that's maintainable, scalable, and adaptable but also encourage better design thinking. Remember, clear and concise code today saves hours of debugging tomorrow." 
+
+In more detail:
+1. **Single Responsibility Principle (SRP)**: A class should have one, and only one, reason to change. This means a class should do one thing and do it well.
+2. **Open-Closed Principle (OCP)**: Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
+3. **Liskov Substitution Principle (LSP)**: Derived classes must be substitutable for their base classes without altering the correctness of the program.
+4. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on methods they do not use; make fine-grained interfaces that are client-specific.
+5. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; details should depend on abstractions.
